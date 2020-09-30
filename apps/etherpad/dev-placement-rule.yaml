@@ -8,5 +8,6 @@ spec:
     - type: ManagedClusterConditionAvailable
       status: "True"
   clusterSelector:
+    matchExpressions: []
     matchLabels:
       environment: dev
