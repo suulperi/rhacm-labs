@@ -39,5 +39,5 @@ spec:
   placement:
     placementRef:
       kind: PlacementRule
-      name: dev
+      name: dev-clusters
 
